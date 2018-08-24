@@ -1,0 +1,8 @@
+Staff, Tran Minh Tuan, App.Dept, HEAD, 20.0, 2000.0, 22.0, 17260.0
+Teacher, Phan Minh Huong, funix, DOCTOR, 23.0, 1000.0, 23, 18825.0
+Staff, Nguyen Thanh Nam, funix, HEAD, 30.0, 2000.0, 25.0, 24650.0
+Staff, Pham Thi Huong, Acad, HEAD, 13.0, 2000.0, 22.0, 12150.0
+Staff, toan vo, toan, HEAD, 4.0, 2000.0, 43.0, 6210.0
+Teacher, Vo Thanh Huy, Ngu Van, BACHELOR, 5.0, 300.0, 45, 5975.0
+Staff, achay, ThoiTrang, STAFF, 23.0, 500.0, 30.0, 18190.0
+Teacher, Le Van Thanh, Nhau, DOCTOR, 33.0, 1000.0, 10, 25540.0
